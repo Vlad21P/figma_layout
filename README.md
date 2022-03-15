@@ -1,2 +1,2 @@
 # figma_layout
-figma layout
+как выглядит конечный результат можно увидеть на look.png
